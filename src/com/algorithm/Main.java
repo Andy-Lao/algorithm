@@ -9,5 +9,6 @@ public class Main {
         System.out.println(Arrays.toString(test));
         QuickSort.quickSortSwap(test, 0, 10);
         System.out.println(Arrays.toString(test));
+
     }
 }
